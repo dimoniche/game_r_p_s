@@ -1,26 +1,26 @@
-﻿<xapCache source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Rock-paper-scissors.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12.06.2013 20:27:35">
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\Background.png" archivePath="Background.png" lastWriteTime="11.06.2013 17:29:56" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\PhoneGameThumb.png" archivePath="PhoneGameThumb.png" lastWriteTime="11.06.2013 17:29:56" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11.06.2013 18:17:41" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11.06.2013 18:12:02" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Rock-paper-scissors.dll" archivePath="Rock-paper-scissors.dll" lastWriteTime="12.06.2013 20:27:34" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\paper.xnb" archivePath="Content\paper.xnb" lastWriteTime="11.06.2013 18:29:55" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\rock.xnb" archivePath="Content\rock.xnb" lastWriteTime="11.06.2013 18:29:55" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\scissors.xnb" archivePath="Content\scissors.xnb" lastWriteTime="11.06.2013 18:29:55" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\1.xnb" archivePath="Content\1.xnb" lastWriteTime="12.06.2013 14:09:24" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\2.xnb" archivePath="Content\2.xnb" lastWriteTime="12.06.2013 14:09:24" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\3.xnb" archivePath="Content\3.xnb" lastWriteTime="12.06.2013 14:09:24" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_blue.xnb" archivePath="Content\b_blue.xnb" lastWriteTime="12.06.2013 15:31:28" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_blue_64.xnb" archivePath="Content\b_blue_64.xnb" lastWriteTime="12.06.2013 15:31:28" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_red.xnb" archivePath="Content\b_red.xnb" lastWriteTime="12.06.2013 15:31:28" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_red_64.xnb" archivePath="Content\b_red_64.xnb" lastWriteTime="12.06.2013 15:31:28" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_blue.xnb" archivePath="Content\k_blue.xnb" lastWriteTime="12.06.2013 15:31:29" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_blue_64.xnb" archivePath="Content\k_blue_64.xnb" lastWriteTime="12.06.2013 15:31:29" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_red.xnb" archivePath="Content\k_red.xnb" lastWriteTime="12.06.2013 15:31:29" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_red_64.xnb" archivePath="Content\k_red_64.xnb" lastWriteTime="12.06.2013 15:31:29" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_blue.xnb" archivePath="Content\n_blue.xnb" lastWriteTime="12.06.2013 15:31:29" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_blue_64.xnb" archivePath="Content\n_blue_64.xnb" lastWriteTime="12.06.2013 15:31:29" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_red.xnb" archivePath="Content\n_red.xnb" lastWriteTime="12.06.2013 15:31:29" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_red_64.xnb" archivePath="Content\n_red_64.xnb" lastWriteTime="12.06.2013 15:31:29" />
-  <file source="C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\border.xnb" archivePath="Content\border.xnb" lastWriteTime="12.06.2013 16:16:42" />
+﻿<xapCache source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Rock-paper-scissors.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12.06.2013 20:45:07">
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\Background.png" archivePath="Background.png" lastWriteTime="11.06.2013 17:29:56" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\PhoneGameThumb.png" archivePath="PhoneGameThumb.png" lastWriteTime="11.06.2013 17:29:56" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11.06.2013 18:17:41" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11.06.2013 18:12:02" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Rock-paper-scissors.dll" archivePath="Rock-paper-scissors.dll" lastWriteTime="12.06.2013 20:45:04" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\paper.xnb" archivePath="Content\paper.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\rock.xnb" archivePath="Content\rock.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\scissors.xnb" archivePath="Content\scissors.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\1.xnb" archivePath="Content\1.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\2.xnb" archivePath="Content\2.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\3.xnb" archivePath="Content\3.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_blue.xnb" archivePath="Content\b_blue.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_blue_64.xnb" archivePath="Content\b_blue_64.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_red.xnb" archivePath="Content\b_red.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_red_64.xnb" archivePath="Content\b_red_64.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_blue.xnb" archivePath="Content\k_blue.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_blue_64.xnb" archivePath="Content\k_blue_64.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_red.xnb" archivePath="Content\k_red.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_red_64.xnb" archivePath="Content\k_red_64.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_blue.xnb" archivePath="Content\n_blue.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_blue_64.xnb" archivePath="Content\n_blue_64.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_red.xnb" archivePath="Content\n_red.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_red_64.xnb" archivePath="Content\n_red_64.xnb" lastWriteTime="12.06.2013 20:45:03" />
+  <file source="C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\border.xnb" archivePath="Content\border.xnb" lastWriteTime="12.06.2013 20:45:03" />
 </xapCache>

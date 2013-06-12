@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\paper.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\paper.xnb</Output>
       <Time>2013-06-11T18:29:20.6227857+04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\rock.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\rock.xnb</Output>
       <Time>2013-06-11T18:29:31.3880659+04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\scissors.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\scissors.xnb</Output>
       <Time>2013-06-11T18:29:40.147422+04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\1.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\1.xnb</Output>
       <Time>2013-06-12T14:08:07.3463317+04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\2.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\2.xnb</Output>
       <Time>2013-06-12T14:08:07.3222549+04:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\3.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\3.xnb</Output>
       <Time>2013-06-12T14:08:07.3352965+04:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_blue.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_blue.xnb</Output>
       <Time>2013-06-12T15:07:31.0717557+04:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_blue_64.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_blue_64.xnb</Output>
       <Time>2013-06-12T15:07:31.0817701+04:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_red.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_red.xnb</Output>
       <Time>2013-06-12T15:07:31.1017989+04:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_red_64.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\b_red_64.xnb</Output>
       <Time>2013-06-12T15:07:31.1298533+04:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_blue.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_blue.xnb</Output>
       <Time>2013-06-12T15:07:31.1408885+04:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_blue_64.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_blue_64.xnb</Output>
       <Time>2013-06-12T15:07:31.1519237+04:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_red.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_red.xnb</Output>
       <Time>2013-06-12T15:07:30.9875573+04:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_red_64.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\k_red_64.xnb</Output>
       <Time>2013-06-12T15:07:31.0146085+04:00</Time>
     </Item>
     <Item>
@@ -133,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_blue.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_blue.xnb</Output>
       <Time>2013-06-12T15:07:31.0276501+04:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_blue_64.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_blue_64.xnb</Output>
       <Time>2013-06-12T15:07:31.0507237+04:00</Time>
     </Item>
     <Item>
@@ -151,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_red.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_red.xnb</Output>
       <Time>2013-06-12T15:07:31.0517269+04:00</Time>
     </Item>
     <Item>
@@ -160,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_red_64.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\n_red_64.xnb</Output>
       <Time>2013-06-12T15:07:31.0617413+04:00</Time>
     </Item>
     <Item>
@@ -169,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\border.xnb</Output>
+      <Output>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\border.xnb</Output>
       <Time>2013-06-12T16:09:44.6312241+04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -179,10 +179,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissorsContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\obj\Windows Phone\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Project\Rock-paper-scissors\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissorsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\PROJECT\game_r_p_s\Rock-paper-scissors\Rock-paper-scissors\bin\Windows Phone\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

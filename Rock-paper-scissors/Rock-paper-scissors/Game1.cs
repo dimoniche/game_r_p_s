@@ -157,19 +157,6 @@ namespace Rock_paper_scissors
             // TODO: Unload any non ContentManager content here
         }
 
-        void Move_pole_user1()
-        {
-            if (playground[0] != type_figure.none)
-            {
-                for (int j = line_win-1; j > 0; j--)
-                {
-                    playground[j] = playground[j - 1];
-                }
-            }
-
-            playground[0] = type_figure.none;
-        }
-
         void Move_pole_user1_()
         {
             if (playground[0] != type_figure.none)
@@ -246,19 +233,6 @@ namespace Rock_paper_scissors
                 }
             }
 
-        }
-
-        void Move_pole_user2()
-        {
-            if (playground[size_playground - 1] != type_figure.none)
-            {
-                for (int j = line_win; j < size_playground - 1; j++)
-                {
-                    playground[j] = playground[j + 1];
-                }
-            }
-
-            playground[size_playground - 1] = type_figure.none;
         }
 
         type_figure Getnewfigureuser1()
@@ -409,43 +383,6 @@ namespace Rock_paper_scissors
                 }
             }
             return check_battle.none;
-        }
-
-        void Check_win()
-        {   // анализ выигрыша
-            if (line_win >= size_playground-1)
-            {   // user 1 game win
-                stepgame = step_game.win1;
-            }
-            else if (line_win <= 1)
-            {   // user 2 game win
-                stepgame = step_game.win2;
-            }
-            else if ((playground[size_playground / 2 - 1] != type_figure.none) && (playground[size_playground/2] != type_figure.none))
-            {   // потоки встретились
-                if (((playground[line_win - 1] == type_figure.rock) && (playground[line_win] == type_figure.rock))
-                    || ((playground[line_win - 1] == type_figure.paper) && (playground[line_win] == type_figure.paper))
-                    || ((playground[line_win - 1] == type_figure.scissors) && (playground[line_win] == type_figure.scissors)))
-                {   // ничья - сдвигаем поле
-                    Move_pole_user1();
-                    Move_pole_user2();
-                }
-                else if (((playground[line_win - 1] == type_figure.rock) && (playground[line_win] == type_figure.scissors))
-                        || ((playground[line_win - 1] == type_figure.scissors) && (playground[line_win] == type_figure.paper))
-                        || ((playground[line_win - 1] == type_figure.paper) && (playground[line_win] == type_figure.rock))
-                    )
-                {   // user1 win
-                    line_win++;
-
-                    Move_pole_user1();
-                }
-                else
-                {   // user2 win
-                    line_win--;
-
-                    Move_pole_user2();
-                }
-            }
         }
 
         /// <summary>
